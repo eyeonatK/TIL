@@ -1,7 +1,8 @@
-# 📚 My TIL (Today I Learned)
+# Today I Learned
 
-매일 배운 내용을 기록하고 복습하는 저장소입니다.
+매일 학습한 기술적 개념과 트러블슈팅 내역을 정리하는 저장소입니다.
 
-## 📌 카테고리
-- [x] Git & GitHub 기초
-- [ ] 마크다운 작성법
+## Directory Index
+
+### Git & Version Control
+- [Git 기본 아키텍처 및 핵심 워크플로우](git/git-basic.md)
