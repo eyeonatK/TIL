@@ -16,7 +16,7 @@
 | 02 | 변수와 자료형 | 기본형, 시퀀스, 컬렉션(List, Tuple, Dict, Set) | [바로가기](python/02-data-types.md) |
 | 03 | 연산자 | 산술, 비교, 논리, 삼항 연산자 | [바로가기](python/03-operators.md) |
 | 04 | 제어문 | 조건문(`if`), 반복문(`while`), `break`/`continue` | [바로가기](python/04-control-flow.md) |
-| 05 | 타입힌트 | 변수/컬렉션 어노테이션, Union(`|`), Ellipsis(`...`) | [바로가기](python/05-type-hints.md) |
+| 05 | 타입힌트 | 변수/컬렉션 어노테이션, Union(`\|`), Ellipsis(`...`) | [바로가기](python/05-type-hints.md) |
 | 06 | 함수 | def, 매개변수, 가변인자 | [바로가기](python/06-functions.md) |
 | 07 | 클래스 | 인스턴스/클래스 변수, 상속, 추상화 | [바로가기](python/07-classes.md) |
 | 08 | 모듈과 패키지 | Import 문법, `__init__.py`, 패키지 구조 | [바로가기](python/08-modules-and-packages.md) |
