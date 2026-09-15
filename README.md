@@ -6,7 +6,11 @@
 
 ### Git & Version Control
 - [Git 기본 아키텍처 및 핵심 워크플로우](git/git-basic.md)
+## 🐙 Git & GitHub
 
+| 번호 | 주제 | 상세 내용 | 링크 |
+| :--- | :--- | :--- | :--- |
+| 01 | Git 워크플로우 | 3영역 구조, 기본 CLI, 원격 저장소 연동, `.gitignore` | [바로가기](git/01-git-workflow.md) |
 ---
 ## Python
 
@@ -22,3 +26,7 @@
 | 08 | 모듈과 패키지 | Import 문법, `__init__.py`, 패키지 구조 | [바로가기](python/08-modules-and-packages.md) |
 | 09 | 파일 입출력 | 파일 핸들러 모드, `with` 컨텍스트 매니저, `pathlib.Path` | [바로가기](python/09-file-io.md) |
 | 10 | 예외 처리 | `try-except-else-finally`, `raise`, 사용자 정의 예외 | [바로가기](python/10-exceptions.md) |
+| 11 | Python Pydantic | BaseModel, Field 제약, 직렬화, Validator | [바로가기](python/11-pydantic.md) |
+| 12 | 환경 변수 관리 | .env, Pydantic Settings, 싱글톤 패턴 | [바로가기](python/12-environment-variables.md) |
+| 13 | 계층형 아키텍처 | Router-Service-Repository | [바로가기](python/13-layered-architecture.md) |
+| 14 | 도메인 예외 계층 설계 | AgentError 상속, raise from, 에러 핸들링 | [바로가기](python/14-custom-exceptions.md) |
